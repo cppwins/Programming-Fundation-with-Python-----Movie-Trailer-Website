@@ -1,3 +1,6 @@
+Submission to course Programming Foundation with Python,
+including files: media.py, entertainment_center.py, fresh_tomatoes.py
+
 To run Movie Trailer Website demo,
 
 On linux distro/ Mac OSX, install python 2.7.9, open a terminal emulater, 
